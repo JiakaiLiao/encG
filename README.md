@@ -1,5 +1,9 @@
-# encG
+# 操作说明
+
 In this repository, you can get pictures you want !
+
+git操作命令：git LFS clone git@github.com:JiakaiLiao/encG.git
+
 将data.zip文件解压后，文件位置如下：
 encG
 |
