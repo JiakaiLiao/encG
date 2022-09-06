@@ -17,3 +17,20 @@ encG
 |--EigenGWAS.R
 
 请将需要分析的.frq格式的文件放置在test文件夹内。
+
+
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+R包版本号：
+R version 4.2.1
+shiny--------1.7.2
+ggplot2------3.3.6
+ggrepel------0.9.1
+reshape2-----1.4.4
+jcolors------0.0.4
+grid---------4.2.1
+data.table---1.14.2
+dplyr--------1.0.9
+DT-----------0.23
+tidyr--------1.2.0
+shinycssloaders--------1.0.0
+shinythemes------------1.2.0
